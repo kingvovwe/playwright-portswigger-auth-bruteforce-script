@@ -1,0 +1,23 @@
+{
+  "name": "playwright-auth-bruteforce-script",
+  "version": "1.0.0",
+  "description": "\"# playwright-portswigger-auth-bruteforce-script\"",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingvovwe/playwright-portswigger-auth-bruteforce-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kingvovwe/playwright-portswigger-auth-bruteforce-script/issues"
+  },
+  "homepage": "https://github.com/kingvovwe/playwright-portswigger-auth-bruteforce-script#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
